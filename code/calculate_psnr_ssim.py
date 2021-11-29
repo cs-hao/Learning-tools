@@ -1,5 +1,5 @@
 """
-    个人用来计算PSNR/SSIM的 代码，该代码可以用来计算Super-resolution / Image denoising / JPEG image compression artifact
+    个人用来计算PSNR/SSIM的 代码，该代码可以用来计算Super-resolution / Image denoising / JPEG image compression artifact reduction
     的结果，可以输入单张图片，亦可以进行整个文件夹中文件的测试。
 """
 import skimage.io as io
