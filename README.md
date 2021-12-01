@@ -69,6 +69,8 @@
 - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)：学术用语库，告诉你各个章节适合用哪些句式搭配。
 - [易搜搭ESODA](http://www.esoda.org/)：清华HCI Lab工作室出品的一款适合国人英语写作的词组搭配查询工具。可切换具体研究方向的论文语料库，展示相关的可替换用法，支持中英混搜。
 - [Linggle](https://linggle.com/)：搜索最常出现的英文词语搭配。不确定自己的表达方式是否正确时使用。
+- [Acronymify](http://acronymify.com/)：为论文起一个很好的缩写名字。
+- [Rebiber](https://github.com/yuchenlin/rebiber)：规范化顶会论文引用格式的工具。如果错误地引用了论文的arxiv版本而且其在会议上的发表版本，Rebiber会帮助修正。
 
 ## 论文绘图
 
