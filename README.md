@@ -2,7 +2,7 @@
 
 ## 会议查询
 
-- [ccf-deadlines](https://ccfddl.github.io/)：可以根据研究方向和 CCF 等级来筛选本年度已经确定截稿日期的会议。对国内的同学比较友好。
+- [CCF-deadlines](https://ccfddl.github.io/)：可以根据研究方向和 CCF 等级来筛选本年度已经确定截稿日期的会议。对国内的同学比较友好。
 - [AI Conference Deadlines](https://aideadlin.es/)：可以根据研究方向筛选会议。但是好像需要科学上网才能看到全部信息。
 - [Conference List](http://www.conferencelist.info/upcoming.html)：根据截稿时间排序，过期的会议不在首页出现。有一页可以看每个研究方向有哪些会议，但是没有办法根据研究方向筛选还没过期的会议。
 - [Conference Partner (会伴)](http://www.myhuiban.com/)：计算机最新国际会议和期刊列表。可以注册以关注会议或期刊。比较全，但目前信息更新不及时。
@@ -16,6 +16,10 @@
 - [dblp: computer science bibliography](https://dblp.org/)：专为 CS 设计的论文查询网站，收录比较顶级并可以被检索到的论文。可以根据会议、期刊等分类查询作者的论文，想搜一个计算机会议的所有文章时好用。
 - [Researchgate](https://www.researchgate.net/)：用户可以联系同行，了解研究动态，分享科研方法以及交流想法。关联邮箱后，关注后会实时收到作者的最新动态。
 - [中国知网海外服务](https://chn.oversea.cnki.net/index/)：支持全 PDF 格式下载。这是相比中文版最大的优势。
+
+## 收藏好文
+
+[AI论文中的novelty如何评价](https://www.zhihu.com/question/503131049/answer/2253028435)
 
 ## arXiv 相关
 
@@ -51,7 +55,7 @@
 
 ## latex 表格
 
-- [[Create LaTeX tables online](https://www.tablesgenerator.com/)：可以将表格转化为符合多种文档形式的表格，包括latex。
+- [Create LaTeX tables online](https://www.tablesgenerator.com/)：可以将表格转化为符合多种文档形式的表格，包括latex。
 - [Excel2LaTeX](https://ctan.org/tex-archive/support/excel2latex)：用在 Excel 上的宏工具，能够将 Excel 表格转换为 LaTeX 代码，节省很多时间。能够满足大多数效果的转换，有些效果可能需要微调。
 
 ## latex 公式
